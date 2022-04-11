@@ -1,0 +1,14 @@
+{
+    "platformData":[
+        {"x": 100,"y":100},
+        {"x": 1200,"y":400,"scale":0.6},
+        {"x": 1500,"y":500,"scale":0.6}
+    ],
+    "movingPlatformData":[
+        {"x": 1700,"y":200,"scale": 1,"movementType": "horizontal", "time":3, "distance":200},
+        {"x": 1900,"y":300,"scale": 1,"movementType": "vertikal", "time":2, "distance":400},
+        {"x": 1500,"y":400,"scale": 1,"movementType": "randomY", "time":3, "distance":200},
+        {"x": 1900,"y":600,"scale": 1,"movementType": "randomX", "time":2, "distance":400},
+        {"x": 1020,"y":900,"scale": 1,"movementType": "random", "time":3, "distance":200}
+    ]
+}

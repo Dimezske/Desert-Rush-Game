@@ -1,0 +1,16 @@
+{
+    "PlungerData":[
+        {"x": 100,"y":100,"scale": 0.8,"movementType": "horizontal", "time":3, "distance":200},
+        {"x": 120,"y":100,"scale": 0.8,"movementType": "horizontal", "time":3, "distance":200},
+        {"x": 250,"y":100,"scale": 0.8,"movementType": "random", "time":5, "distance":600}
+    ],
+    "RatData":[
+        {"x": 200,"y":100,"scale": 0.8,"movementType": "horizontal", "time":3, "distance":200},
+        {"x": 1220,"y":100,"scale": 0.8,"movementType": "random", "time":3, "distance":200},
+        {"x": 1350,"y":100,"scale": 0.8,"movementType": "random", "time":5, "distance":600}
+    ],
+    "GhostData":[
+        {"x": 2000,"y":100,"scale": 0.8,"movementType": "horizontal", "time":3, "distance":200},
+        {"x": 2500,"y":100,"scale": 0.8,"movementType": "random", "time":5, "distance":300}
+    ]
+}

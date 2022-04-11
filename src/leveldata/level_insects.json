@@ -1,0 +1,11 @@
+{
+    "InsectData":[
+        {"x": 100,"y":-200,"scale": 0.8,"movementType": "horizontal", "time":3, "distance":200},
+        {"x": 150,"y":-100,"scale": 0.8,"movementType": "random", "time":5, "distance":600}
+ 
+    ],
+    "Insect_HummingData":[
+        {"x": 200,"y":-300,"scale": 0.8,"movementType": "horizontal", "time":3, "distance":200},
+        {"x": 100,"y":-200,"scale": 0.8,"movementType": "horizontal", "time":3, "distance":200}
+    ]
+}
